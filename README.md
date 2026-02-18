@@ -10,16 +10,12 @@
 
 
 
-## 📊 GitHub Analytics
+# 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YeshwanthDandu180903&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeshwanthDandu180903&layout=compact&theme=github_dark" height="165"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=YeshwanthDandu180903&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YeshwanthDandu180903&theme=github-dark" height="165"/>
-</p>
+![](https://streak-stats.demolab.com?user=YeshwanthDandu180903&theme=github-dark)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YeshwanthDandu180903&layout=compact&theme=github_dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
