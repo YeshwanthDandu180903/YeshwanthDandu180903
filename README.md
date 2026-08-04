@@ -43,12 +43,6 @@ Product-minded **AI Engineer** and **Full Stack Developer** building end-to-end,
 
 **Open To:** AI Engineer · ML Engineer · Full Stack · Data Science roles & collaborations.
 
-<br clear="all"/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YeshwanthDandu180903/YeshwanthDandu180903/a3b4da9bd11c99520e72b7738b8490820c696f9a/metrics.svg" alt="Impact metrics — 6+ projects shipped, 21M+ records analyzed, 98% model accuracy, 50% faster onboarding, 180+ DSA problems solved" width="100%" />
-</div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/YeshwanthDandu180903/YeshwanthDandu180903/567658ee24219b8e56b13b17f76e985d770907d4/stats-card.svg" alt="GitHub Stats — Total Stars 2, Commits 215, PRs 24, Issues 78, Contributed to 18; Most used languages: Python, Dart, HTML, JavaScript, CSS" width="100%" />
 </div>
