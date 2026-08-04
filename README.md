@@ -1,21 +1,386 @@
-# 💫 About Me:
-- 🔭 I’m currently working on building production-ready RAG systems, AI-powered applications, and strengthening my end-to-end ML deployment skills.<br><br>- 🌱 I’m currently learning advanced Machine Learning concepts, MLOps fundamentals, LLM optimization, and scalable AI system design.<br><br>- 👯 I’m looking to collaborate on AI/ML projects, beginner-to-intermediate research ideas, and real-world data-driven problem-solving.<br><br>- 🤔 I’m looking for opportunities to contribute to impactful AI teams where I can grow as a Data Scientist / AI Engineer.<br><br>- 💬 Ask me about ML fundamentals, RAG pipelines, model deployment basics, and my hands-on AI projects.<br><br>- 📫 How to reach me: yeshwanthdandu2003@gmail.com<br><br>- 😄 Pronouns: He/Him<br><br>- ⚡ Fun fact: I enjoy learning in public and turning every project into a step toward becoming a better AI engineer.<br>
+<!-- ====================== HEADER ====================== -->
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:8B5CF6&height=220&section=header&text=Dandu%20Yeshwanth&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20RAG%20%26%20LLM%20Systems&descAlignY=60&descSize=18" alt="header" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yeshwanthdandu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@yeshwanthdandu2003) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DanduYeshu18) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Dandu Yeshwanth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yeshwanthdandu2003@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%26+LLM+Systems+Builder;Full+Stack+Developer+%7C+FastAPI+%2B+Next.js;RAG+%7C+Vector+DBs+%7C+Model+Deployment;Turning+Data+into+Production+Products" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+<br/>
 
+![B.Tech CSE - Data Science](https://img.shields.io/badge/B.Tech-CSE%20(Data%20Science)-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white)
+![GPA](https://img.shields.io/badge/GPA-8.07%2F10-7C3AED?style=for-the-badge&logo=academia&logoColor=white)
+![Location](https://img.shields.io/badge/Hyderabad-India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
+<br/>
 
-# 📊 GitHub Stats:
+<a href="https://dandu-yeshwanth1809-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/yeshwanthdandu"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:yeshwanthdandu2003@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/YeshwanthDandu180903"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-![](https://github-readme-stats.vercel.app/api?username=YeshwanthDandu180903&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
+<br/><br/>
 
-![](https://streak-stats.demolab.com?user=YeshwanthDandu180903&theme=github-dark)
+<img src="https://komarev.com/ghpvc/?username=YeshwanthDandu180903&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/YeshwanthDandu180903?label=Followers&style=flat-square&color=7C3AED&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/stars/YeshwanthDandu180903?label=Stars&style=flat-square&color=4F46E5&logo=github" alt="Stars" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YeshwanthDandu180903&layout=compact&theme=github_dark)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<!-- ====================== ABOUT ====================== -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
+
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=YeshwanthDandu180903&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=A855F7&text_color=c9d1d9&bg_color=0D1117&count_private=true" alt="stats" />
+
+Product-minded **AI Engineer** and **Full Stack Developer** building end-to-end, production-grade systems where machine learning meets real users.
+
+- 🧠 **AI / ML:** RAG systems, LLM applications, deep learning (CNNs, transfer learning), and classical ML — from experimentation to deployment.
+- ⚙️ **Full Stack:** Designing scalable backends with **FastAPI** and modern frontends with **Next.js / React / TypeScript**.
+- ☁️ **Deployment:** Shipping multi-tenant SaaS on **AWS**, **Docker**, and **Vercel** with vector databases and secure API access.
+- 📊 **Data:** Turning 21M+ record datasets into decisions through ETL pipelines, Power BI, and rigorous analysis.
+- 🚀 **Mindset:** Engineering that is measurable — I optimize for accuracy, scale, latency, and business impact.
+
+**Open To:** AI Engineer · ML Engineer · Full Stack · Data Science roles & collaborations.
+
+---
+
+<!-- ====================== TECH STACK ====================== -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-4F46E5?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-6366F1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-4F46E5?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-6366F1?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-4F46E5?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-6366F1?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-7C3AED?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-4F46E5?style=flat-square&logo=css3&logoColor=white)
+
+**Backend &amp; Databases**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-4F46E5?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-6366F1?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-8B5CF6?style=flat-square&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant%20(Vector%20DB)-4F46E5?style=flat-square&logo=qdrant&logoColor=white)
+
+**AI / ML &amp; Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-6366F1?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-7C3AED?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-8B5CF6?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-4F46E5?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-6366F1?style=flat-square&logo=huggingface&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-7C3AED?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-8B5CF6?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-4F46E5?style=flat-square&logo=powerbi&logoColor=white)
+
+**Cloud, DevOps &amp; Tooling**
+
+![AWS](https://img.shields.io/badge/AWS-6366F1?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-7C3AED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-8B5CF6?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-4F46E5?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6366F1?style=flat-square&logo=github&logoColor=white)
+
+<br/>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,sklearn,nextjs,react,ts,tailwind,postgres,redis,docker,aws,vercel,git,github&theme=dark" alt="skill icons" />
+</div>
+
+---
+
+<!-- ====================== AI / ML EXPERTISE ====================== -->
+## <img src="https://media.giphy.com/media/LnQ1sBWJnEQwUiWtOc/giphy.gif" width="28"> AI / ML Expertise
+
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **LLMs &amp; RAG** | ⭐⭐⭐⭐⭐ | Multi-tenant RAG SaaS, embeddings, vector search (Qdrant), LangChain orchestration |
+| **NLP** | ⭐⭐⭐⭐ | Text understanding, question answering, knowledge-base construction |
+| **Deep Learning** | ⭐⭐⭐⭐ | CNNs, transfer learning (EfficientNet-B2), medical image classification |
+| **Classical ML** | ⭐⭐⭐⭐ | Classification, regression, clustering, feature engineering, model evaluation |
+| **MLOps &amp; Deployment** | ⭐⭐⭐⭐ | CI/CD retraining, Docker, FastAPI/Flask serving, AWS deployment |
+| **Data Engineering** | ⭐⭐⭐⭐ | ETL pipelines (SQL Server), data wrangling, Power BI analytics |
+
+---
+
+<!-- ====================== FEATURED PROJECTS ====================== -->
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Featured Projects
+
+<details open>
+<summary><b>🤖 ChatPlug — Multi-Tenant RAG Chatbot SaaS Platform</b></summary>
+<br/>
+
+A multi-tenant Retrieval-Augmented Generation SaaS that lets businesses upload documents, build tenant-specific AI knowledge bases, and embed a chatbot on their own site via a JavaScript widget + generated API key.
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | FastAPI · Redis · Qdrant · Python · JS Widget |
+| **Scale** | Multi-tenant, isolated per-tenant knowledge bases |
+| **Performance** | Contextual QA powered by vector-search RAG |
+| **Security** | Secure API-key based tenant access |
+| **Impact** | Instant embeddable AI chat for any client website |
+| **Repository** | [View Repo »](https://github.com/YeshwanthDandu180903) |
+
+</details>
+
+<details>
+<summary><b>🎬 MLOps Movie Recommendation System</b></summary>
+<br/>
+
+End-to-end ML pipeline for a predictive recommendation engine — data preprocessing, feature engineering, model training, and scalable serving.
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | Python · scikit-learn · REST API · AWS |
+| **Scale** | End-to-end pipeline from data to deployment |
+| **Performance** | ~81% model accuracy |
+| **Security** | API-based model serving |
+| **Impact** | Scalable, deployable recommendation service |
+| **Repository** | [View Repo »](https://github.com/YeshwanthDandu180903) |
+
+</details>
+
+<details>
+<summary><b>🧠 Brain Tumor Multi-Class Classification (Deep Learning)</b></summary>
+<br/>
+
+A 4-class MRI classification model built with EfficientNet-B2 and transfer learning, plus a production-ready inference pipeline that generates diagnostic probability scores and structured PDF reports.
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | PyTorch · EfficientNet-B2 · Flask · Python |
+| **Scale** | 4-class MRI dataset |
+| **Performance** | ~98% accuracy; +22% generalization via fine-tuning &amp; regularization |
+| **Security** | Structured, reproducible diagnostic reporting |
+| **Impact** | Automated diagnostic PDF reports from inference |
+| **Repository** | [View Repo »](https://github.com/YeshwanthDandu180903) |
+
+</details>
+
+<details>
+<summary><b>📉 Customer Churn Prediction (SQL + Power BI)</b></summary>
+<br/>
+
+ETL pipelines transforming raw telecom data into analytics-ready datasets, feeding an interactive Power BI dashboard with churn KPIs and risk segmentation.
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | SQL Server · Python · Power BI |
+| **Scale** | Full ETL over raw telecom data |
+| **Performance** | Churn probability scoring across segments |
+| **Security** | Governed, cleansed analytics datasets |
+| **Impact** | KPI scorecards for retention decisions |
+| **Repository** | [View Repo »](https://github.com/YeshwanthDandu180903) |
+
+</details>
+
+<details>
+<summary><b>🚗 Vehicle Insurance Prediction (MLOps Pipeline)</b></summary>
+<br/>
+
+A deployed ML pipeline with automated retraining and Git-based version control, covering the full lifecycle from feature engineering to cloud deployment.
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | Python · scikit-learn · Flask · Docker · AWS S3 |
+| **Scale** | Automated CI/CD retraining workflows |
+| **Performance** | Regression &amp; clustering on large datasets |
+| **Security** | Versioned, reproducible model deployment |
+| **Impact** | Hands-off retraining &amp; deployment |
+| **Repository** | [View Repo »](https://github.com/YeshwanthDandu180903) |
+
+</details>
+
+<details>
+<summary><b>🙂 Celebrity Face Recognition</b></summary>
+<br/>
+
+An image-based face recognition system using Haar Cascades and face encodings with real-time prediction outputs.
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | Python · OpenCV · Haar Cascades |
+| **Scale** | Multi-celebrity identification |
+| **Performance** | Real-time bounding boxes &amp; confidence scores |
+| **Security** | Local, self-contained inference |
+| **Impact** | Real-time identification demo |
+| **Repository** | [View Repo »](https://github.com/YeshwanthDandu180903) |
+
+</details>
+
+---
+
+<!-- ====================== EXPERIENCE ====================== -->
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> Experience
+
+### Full Stack Developer — Yugaas AI *(Remote)*
+`May 2026 – Present`
+
+Building a production nutrition &amp; fitness clinic platform end to end.
+
+- Increased nutrition program adoption **35%** via food catalog management, meal templates, and adherence tracking workflows.
+- Reduced member onboarding time **50%** with a centralized 7-step onboarding system (health assessments, consent, medical reports, expert booking).
+- Improved scheduling &amp; membership administration efficiency **45%** through plan management and Cal-ID integrated appointment scheduling.
+
+**Skills:** `Next.js 15` `React 19` `TypeScript` `Tailwind CSS` `TanStack Query` `Zustand` `Zod` `RBAC` `REST APIs` `Vercel`
+
+<br/>
+
+### Data Analysis Intern — Makri Solutions Pvt. Ltd. *(Hyderabad)*
+`May 2024 – June 2024`
+
+Analyzed large-scale public health data to support state-level decisions.
+
+- Analyzed public health datasets of **21M+ individuals**, improving structured data readiness by **30%**.
+- Identified **12+ high-risk districts** using IMR, MMR, and TFR statistical trend analysis.
+- Built interactive Power BI dashboards and validation workflows, cutting reporting time **40%** and improving data consistency **18%**.
+
+**Skills:** `Power BI` `SQL` `Statistical Analysis` `Data Validation` `KPI Tracking`
+
+---
+
+<!-- ====================== ACHIEVEMENTS ====================== -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Achievements
+
+<div align="center">
+
+| 🏆 Recognition | Details |
+| :--- | :--- |
+| **Tech Savishkaar 3.0 Hackathon** | Cleared the competitive coding round; presented *Plant Pal* — a location-aware plant care app with temperature-based growth insights *(Jan 2025)* |
+
+</div>
+
+---
+
+<!-- ====================== CERTIFICATIONS ====================== -->
+## <img src="https://media.giphy.com/media/W5eoZHPpUp9Le0kbXZ/giphy.gif" width="28"> Certifications
+
+**Forage**
+
+![GenAI Data Analytics](https://img.shields.io/badge/GenAI%20Powered%20Data%20Analytics%20Job%20Simulation-4F46E5?style=for-the-badge&logo=forage&logoColor=white)
+
+**Udemy**
+
+![LLM Engineering](https://img.shields.io/badge/LLM%20Engineering%3A%20Master%20AI%2C%20LLMs%20%26%20Agents-7C3AED?style=for-the-badge&logo=udemy&logoColor=white)
+
+---
+
+<!-- ====================== CODING PROFILES ====================== -->
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IEXw6/giphy.gif" width="28"> Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/yeshwanthdandu18/"><img src="https://img.shields.io/badge/LeetCode-180%2B%20Solved-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/user/yeshwanthdandu2003/"><img src="https://img.shields.io/badge/GeeksforGeeks-20%2B%20Solved-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+
+</div>
+
+---
+
+<!-- ====================== GITHUB ANALYTICS ====================== -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YeshwanthDandu180903&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=A855F7&text_color=c9d1d9&bg_color=0D1117" alt="stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=YeshwanthDandu180903&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=A855F7&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeshwanthDandu180903&layout=compact&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0D1117&langs_count=8" alt="top languages" />
+
+</div>
+
+---
+
+<!-- ====================== TROPHIES ====================== -->
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"> GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YeshwanthDandu180903&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- ====================== CONTRIBUTION ACTIVITY ====================== -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YeshwanthDandu180903&bg_color=0D1117&color=8B5CF6&line=A855F7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<!-- ====================== CONTRIBUTION SNAKE ====================== -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YeshwanthDandu180903/YeshwanthDandu180903/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+---
+
+<!-- ====================== CURRENT FOCUS ====================== -->
+## <img src="https://media.giphy.com/media/LnQ1sBWJnEQwUiWtOc/giphy.gif" width="28"> Current Focus
+
+```yaml
+Yeshwanth:
+  learning:
+    - Agentic AI & multi-agent systems
+    - Advanced RAG (re-ranking, hybrid search)
+    - Scalable MLOps & model observability
+  building:
+    - ChatPlug — multi-tenant RAG SaaS
+    - Production full-stack AI products
+  exploring:
+    - Vector databases at scale
+    - LLM evaluation & guardrails
+  open_to:
+    - AI / ML Engineer roles
+    - Full Stack Developer roles
+    - Open-source & research collaborations
+```
+
+---
+
+<!-- ====================== CONNECT ====================== -->
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> Connect With Me
+
+<div align="center">
+
+<a href="mailto:yeshwanthdandu2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://linkedin.com/in/yeshwanthdandu"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/YeshwanthDandu180903"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://dandu-yeshwanth1809-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+
+</div>
+
+---
+
+<!-- ====================== FOOTER ====================== -->
+<div align="center">
+
+*"Engineering intelligent systems that turn data into real-world impact."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:7C3AED,100:4F46E5&height=120&section=footer" alt="footer" />
+
+</div>
