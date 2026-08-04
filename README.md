@@ -51,7 +51,7 @@ Product-minded **AI Engineer** and **Full Stack Developer** building end-to-end,
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
 
 <div align="center">
-  <img src="./tech-stack.svg" alt="Tech Stack — Languages, Frontend &amp; Mobile, AI/ML &amp; Data, Backend &amp; Cloud" width="100%" />
+  <img src="https://raw.githubusercontent.com/YeshwanthDandu180903/YeshwanthDandu180903/main/tech-stack.svg" alt="Tech Stack — Languages, Frontend &amp; Mobile, AI/ML &amp; Data, Backend &amp; Cloud" width="100%" />
 </div>
 
 ---
