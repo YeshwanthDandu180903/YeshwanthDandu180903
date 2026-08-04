@@ -33,8 +33,6 @@
 <!-- ====================== ABOUT ====================== -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=YeshwanthDandu180903&show_icons=true&hide_border=true&title_color=06B6D4&icon_color=22D3EE&text_color=c9d1d9&bg_color=0D1117&count_private=true" alt="stats" />
-
 Product-minded **AI Engineer** and **Full Stack Developer** building end-to-end, production-grade systems where machine learning meets real users.
 
 - 🧠 **AI / ML:** RAG systems, LLM applications, deep learning (CNNs, transfer learning), and classical ML — from experimentation to deployment.
@@ -49,6 +47,13 @@ Product-minded **AI Engineer** and **Full Stack Developer** building end-to-end,
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/YeshwanthDandu180903/YeshwanthDandu180903/a3b4da9bd11c99520e72b7738b8490820c696f9a/metrics.svg" alt="Impact metrics — 6+ projects shipped, 21M+ records analyzed, 98% model accuracy, 50% faster onboarding, 180+ DSA problems solved" width="100%" />
+</div>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YeshwanthDandu180903&show_icons=true&count_private=true&hide_border=true&rank_icon=percentile&title_color=22D3EE&icon_color=06B6D4&text_color=c9d1d9&bg_color=0D1117" alt="Yeshwanth's GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeshwanthDandu180903&layout=compact&hide_border=true&langs_count=8&title_color=22D3EE&text_color=c9d1d9&bg_color=0D1117" alt="Most Used Languages" />
+
 </div>
 
 ---
@@ -257,12 +262,7 @@ Analyzed large-scale public health data to support state-level decisions.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YeshwanthDandu180903&show_icons=true&hide_border=true&title_color=06B6D4&icon_color=22D3EE&text_color=c9d1d9&bg_color=0D1117" alt="stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=YeshwanthDandu180903&hide_border=true&background=0D1117&stroke=06B6D4&ring=06B6D4&fire=22D3EE&currStreakLabel=06B6D4&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeshwanthDandu180903&layout=compact&hide_border=true&title_color=06B6D4&text_color=c9d1d9&bg_color=0D1117&langs_count=8" alt="top languages" />
+<img height="180" src="https://streak-stats.demolab.com?user=YeshwanthDandu180903&hide_border=true&background=0D1117&stroke=06B6D4&ring=06B6D4&fire=22D3EE&currStreakLabel=06B6D4&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
 
 </div>
 
