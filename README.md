@@ -75,105 +75,134 @@ Product-minded **AI Engineer** and **Full Stack Developer** building end-to-end,
 <!-- ====================== FEATURED PROJECTS ====================== -->
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Featured Projects
 
+<div align="center"><i>Six production-minded builds across AI/ML, MLOps, full-stack &amp; data — click any card to expand ↓</i></div>
+
+<br/>
+
 <details open>
-<summary><b>🤖 ChatPlug — Multi-Tenant RAG Chatbot SaaS Platform</b></summary>
+<summary>&nbsp;<b>🤖 ChatPlug — Multi-Tenant RAG Chatbot SaaS Platform</b>&nbsp; <img src="https://img.shields.io/badge/AWS-Deployed-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/GenAI-RAG-06B6D4?style=flat-square" height="20"/></summary>
+
 <br/>
 
-A multi-tenant Retrieval-Augmented Generation SaaS that lets businesses upload documents, build tenant-specific AI knowledge bases, and embed a chatbot on their own site via a JavaScript widget + generated API key.
+> 💡 Upload your docs → get an embeddable, tenant-aware AI chatbot live on your website in minutes.
 
-| Attribute | Detail |
-| :--- | :--- |
-| **Stack** | FastAPI · Redis · Qdrant · Python · JS Widget |
-| **Scale** | Multi-tenant, isolated per-tenant knowledge bases |
-| **Performance** | Contextual QA powered by vector-search RAG |
-| **Security** | Secure API-key based tenant access |
-| **Impact** | Instant embeddable AI chat for any client website |
-| **Repository** | [View Repo »](https://github.com/YeshwanthDandu180903) |
+A multi-tenant Retrieval-Augmented Generation SaaS: businesses upload documents, build tenant-specific knowledge bases, and embed a chatbot on their own site via a JavaScript widget + generated API key.
+
+**🛠️ Built with**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**✨ Highlights**
+- 🏢 Multi-tenant architecture with **isolated per-tenant** knowledge bases
+- 🔌 Embeddable **JS widget + auto-generated API key** for instant integration
+- 🔒 Secure **API-key gated** tenant access
+- ⚡ Contextual Q&amp;A powered by **vector-search RAG** on Qdrant
+
+<a href="https://github.com/YeshwanthDandu180903"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/></a>
 
 </details>
 
 <details>
-<summary><b>🎬 MLOps Movie Recommendation System</b></summary>
+<summary>&nbsp;<b>🎬 MLOps Movie Recommendation System</b>&nbsp; <img src="https://img.shields.io/badge/MLOps-Pipeline-2563EB?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Accuracy-~81%25-06B6D4?style=flat-square" height="20"/></summary>
+
 <br/>
 
-End-to-end ML pipeline for a predictive recommendation engine — data preprocessing, feature engineering, model training, and scalable serving.
+> 🍿 End-to-end pipeline that turns raw ratings into scalable, deployable recommendations.
 
-| Attribute | Detail |
-| :--- | :--- |
-| **Stack** | Python · scikit-learn · REST API · AWS |
-| **Scale** | End-to-end pipeline from data to deployment |
-| **Performance** | ~81% model accuracy |
-| **Security** | API-based model serving |
-| **Impact** | Scalable, deployable recommendation service |
-| **Repository** | [View Repo »](https://github.com/YeshwanthDandu180903) |
+A complete ML pipeline for a predictive recommendation engine — data preprocessing, feature engineering, model training, and scalable REST serving on the cloud.
+
+**🛠️ Built with**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=swagger&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**✨ Highlights**
+- 🔁 Full **data → train → serve** ML lifecycle
+- 🎯 **~81%** model accuracy
+- ☁️ **REST APIs on AWS** for scalable model serving
+
+<a href="https://github.com/YeshwanthDandu180903"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/></a>
 
 </details>
 
 <details>
-<summary><b>🧠 Brain Tumor Multi-Class Classification (Deep Learning)</b></summary>
+<summary>&nbsp;<b>🧠 Brain Tumor Multi-Class Classification</b>&nbsp; <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Accuracy-~98%25-06B6D4?style=flat-square" height="20"/></summary>
+
 <br/>
 
-A 4-class MRI classification model built with EfficientNet-B2 and transfer learning, plus a production-ready inference pipeline that generates diagnostic probability scores and structured PDF reports.
+> 🧬 Diagnostic-grade MRI classifier that outputs probability scores and auto-generated PDF reports.
 
-| Attribute | Detail |
-| :--- | :--- |
-| **Stack** | PyTorch · EfficientNet-B2 · Flask · Python |
-| **Scale** | 4-class MRI dataset |
-| **Performance** | ~98% accuracy; +22% generalization via fine-tuning &amp; regularization |
-| **Security** | Structured, reproducible diagnostic reporting |
-| **Impact** | Automated diagnostic PDF reports from inference |
-| **Repository** | [View Repo »](https://github.com/YeshwanthDandu180903) |
+A 4-class MRI classification model built with EfficientNet-B2 and transfer learning, plus a production-ready inference pipeline generating diagnostic probability scores and structured PDF reports.
+
+**🛠️ Built with**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![EfficientNet-B2](https://img.shields.io/badge/EfficientNet--B2-8A2BE2?style=flat-square) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**✨ Highlights**
+- 🧠 4-class MRI classification via **EfficientNet-B2 transfer learning**
+- 🎯 **~98% accuracy**, **+22% generalization** through fine-tuning &amp; regularization
+- 📄 Production inference generating **diagnostic PDF reports**
+
+<a href="https://github.com/YeshwanthDandu180903"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/></a>
 
 </details>
 
 <details>
-<summary><b>📉 Customer Churn Prediction (SQL + Power BI)</b></summary>
+<summary>&nbsp;<b>📉 Customer Churn Prediction</b>&nbsp; <img src="https://img.shields.io/badge/Data%20Analytics-F2C811?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/SQL%20%2B%20Power%20BI-1E40AF?style=flat-square" height="20"/></summary>
+
 <br/>
+
+> 📊 Turns raw telecom data into churn insights leaders can act on.
 
 ETL pipelines transforming raw telecom data into analytics-ready datasets, feeding an interactive Power BI dashboard with churn KPIs and risk segmentation.
 
-| Attribute | Detail |
-| :--- | :--- |
-| **Stack** | SQL Server · Python · Power BI |
-| **Scale** | Full ETL over raw telecom data |
-| **Performance** | Churn probability scoring across segments |
-| **Security** | Governed, cleansed analytics datasets |
-| **Impact** | KPI scorecards for retention decisions |
-| **Repository** | [View Repo »](https://github.com/YeshwanthDandu180903) |
+**🛠️ Built with**  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**✨ Highlights**
+- 🧱 **ETL pipelines** transforming raw telecom data into analytics-ready sets
+- 📈 Interactive **Power BI dashboard** with churn KPIs &amp; risk segments
+- 🎯 Churn probability scoring across customer segments
+
+<a href="https://github.com/YeshwanthDandu180903"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/></a>
 
 </details>
 
 <details>
-<summary><b>🚗 Vehicle Insurance Prediction (MLOps Pipeline)</b></summary>
+<summary>&nbsp;<b>🚗 Vehicle Insurance Prediction</b>&nbsp; <img src="https://img.shields.io/badge/MLOps-2563EB?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/CI%2FCD-Automated-06B6D4?style=flat-square" height="20"/></summary>
+
 <br/>
+
+> 🚗 A hands-off ML pipeline that retrains and redeploys itself through CI/CD.
 
 A deployed ML pipeline with automated retraining and Git-based version control, covering the full lifecycle from feature engineering to cloud deployment.
 
-| Attribute | Detail |
-| :--- | :--- |
-| **Stack** | Python · scikit-learn · Flask · Docker · AWS S3 |
-| **Scale** | Automated CI/CD retraining workflows |
-| **Performance** | Regression &amp; clustering on large datasets |
-| **Security** | Versioned, reproducible model deployment |
-| **Impact** | Hands-off retraining &amp; deployment |
-| **Repository** | [View Repo »](https://github.com/YeshwanthDandu180903) |
+**🛠️ Built with**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+
+**✨ Highlights**
+- 🔁 **Automated CI/CD retraining** with Git-based version control
+- 🐳 **Dockerized**, reproducible deployment to **AWS S3**
+- 📊 Feature engineering, regression &amp; clustering on large datasets
+
+<a href="https://github.com/YeshwanthDandu180903"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/></a>
 
 </details>
 
 <details>
-<summary><b>🙂 Celebrity Face Recognition</b></summary>
+<summary>&nbsp;<b>🙂 Celebrity Face Recognition</b>&nbsp; <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Real--time-06B6D4?style=flat-square" height="20"/></summary>
+
 <br/>
+
+> 🙂 Real-time face recognition with live bounding boxes and confidence scores.
 
 An image-based face recognition system using Haar Cascades and face encodings with real-time prediction outputs.
 
-| Attribute | Detail |
-| :--- | :--- |
-| **Stack** | Python · OpenCV · Haar Cascades |
-| **Scale** | Multi-celebrity identification |
-| **Performance** | Real-time bounding boxes &amp; confidence scores |
-| **Security** | Local, self-contained inference |
-| **Impact** | Real-time identification demo |
-| **Repository** | [View Repo »](https://github.com/YeshwanthDandu180903) |
+**🛠️ Built with**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**✨ Highlights**
+- 👁️ Face detection via **Haar Cascades** + face encodings
+- 🎯 Real-time **bounding boxes &amp; confidence scores**
+- 🖥️ Self-contained **local inference**
+
+<a href="https://github.com/YeshwanthDandu180903"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/></a>
 
 </details>
 
