@@ -1,30 +1,30 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:8B5CF6&height=220&section=header&text=Dandu%20Yeshwanth&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20RAG%20%26%20LLM%20Systems&descAlignY=60&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,100:06B6D4&height=200&section=header&text=Dandu%20Yeshwanth&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=18" alt="Dandu Yeshwanth" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%26+LLM+Systems+Builder;Full+Stack+Developer+%7C+FastAPI+%2B+Next.js;RAG+%7C+Vector+DBs+%7C+Model+Deployment;Turning+Data+into+Production+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%26+LLM+Systems+Builder;Full+Stack+Developer+%7C+FastAPI+%2B+Next.js;RAG+%7C+Vector+DBs+%7C+Model+Deployment;Turning+Data+into+Production+Products" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![B.Tech CSE - Data Science](https://img.shields.io/badge/B.Tech-CSE%20(Data%20Science)-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white)
-![GPA](https://img.shields.io/badge/GPA-8.07%2F10-7C3AED?style=for-the-badge&logo=academia&logoColor=white)
-![Location](https://img.shields.io/badge/Hyderabad-India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
+![B.Tech CSE - Data Science](https://img.shields.io/badge/B.Tech-CSE%20(Data%20Science)-1E40AF?style=for-the-badge&logo=googlescholar&logoColor=white)
+![GPA](https://img.shields.io/badge/GPA-8.07%2F10-2563EB?style=for-the-badge&logo=academia&logoColor=white)
+![Location](https://img.shields.io/badge/Hyderabad-India-06B6D4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
-<a href="https://dandu-yeshwanth1809-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/yeshwanthdandu"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:yeshwanthdandu2003@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/YeshwanthDandu180903"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://dandu-yeshwanth1809-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1E40AF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/yeshwanthdandu"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:yeshwanthdandu2003@gmail.com"><img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/YeshwanthDandu180903"><img src="https://img.shields.io/badge/GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YeshwanthDandu180903&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/YeshwanthDandu180903?label=Followers&style=flat-square&color=7C3AED&logo=github" alt="Followers" />
-<img src="https://img.shields.io/github/stars/YeshwanthDandu180903?label=Stars&style=flat-square&color=4F46E5&logo=github" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=YeshwanthDandu180903&label=Profile%20Views&color=06B6D4&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/YeshwanthDandu180903?label=Followers&style=flat-square&color=2563EB&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/stars/YeshwanthDandu180903?label=Stars&style=flat-square&color=1E40AF&logo=github" alt="Stars" />
 
 </div>
 
@@ -33,7 +33,7 @@
 <!-- ====================== ABOUT ====================== -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=YeshwanthDandu180903&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=A855F7&text_color=c9d1d9&bg_color=0D1117&count_private=true" alt="stats" />
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=YeshwanthDandu180903&show_icons=true&hide_border=true&title_color=06B6D4&icon_color=22D3EE&text_color=c9d1d9&bg_color=0D1117&count_private=true" alt="stats" />
 
 Product-minded **AI Engineer** and **Full Stack Developer** building end-to-end, production-grade systems where machine learning meets real users.
 
@@ -52,46 +52,46 @@ Product-minded **AI Engineer** and **Full Stack Developer** building end-to-end,
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-4F46E5?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-6366F1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-4F46E5?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-6366F1?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1E40AF?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2563EB?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0891B2?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E40AF?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2563EB?style=flat-square&logo=openjdk&logoColor=white)
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-4F46E5?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-6366F1?style=flat-square&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-7C3AED?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-4F46E5?style=flat-square&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1E40AF?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-2563EB?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0891B2?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-06B6D4?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1E40AF?style=flat-square&logo=css3&logoColor=white)
 
 **Backend &amp; Databases**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-4F46E5?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-6366F1?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-8B5CF6?style=flat-square&logo=redis&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant%20(Vector%20DB)-4F46E5?style=flat-square&logo=qdrant&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1E40AF?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0891B2?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-06B6D4?style=flat-square&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant%20(Vector%20DB)-1E40AF?style=flat-square&logo=qdrant&logoColor=white)
 
 **AI / ML &amp; Data**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-6366F1?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-7C3AED?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-8B5CF6?style=flat-square&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-4F46E5?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-6366F1?style=flat-square&logo=huggingface&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-7C3AED?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-8B5CF6?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-4F46E5?style=flat-square&logo=powerbi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2563EB?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0891B2?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-06B6D4?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1E40AF?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-2563EB?style=flat-square&logo=huggingface&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-0891B2?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-06B6D4?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-1E40AF?style=flat-square&logo=powerbi&logoColor=white)
 
 **Cloud, DevOps &amp; Tooling**
 
-![AWS](https://img.shields.io/badge/AWS-6366F1?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-7C3AED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-8B5CF6?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-4F46E5?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-6366F1?style=flat-square&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-2563EB?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0891B2?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-06B6D4?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1E40AF?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2563EB?style=flat-square&logo=github&logoColor=white)
 
 <br/>
 
@@ -269,11 +269,11 @@ Analyzed large-scale public health data to support state-level decisions.
 
 **Forage**
 
-![GenAI Data Analytics](https://img.shields.io/badge/GenAI%20Powered%20Data%20Analytics%20Job%20Simulation-4F46E5?style=for-the-badge&logo=forage&logoColor=white)
+![GenAI Data Analytics](https://img.shields.io/badge/GenAI%20Powered%20Data%20Analytics%20Job%20Simulation-1E40AF?style=for-the-badge&logo=forage&logoColor=white)
 
 **Udemy**
 
-![LLM Engineering](https://img.shields.io/badge/LLM%20Engineering%3A%20Master%20AI%2C%20LLMs%20%26%20Agents-7C3AED?style=for-the-badge&logo=udemy&logoColor=white)
+![LLM Engineering](https://img.shields.io/badge/LLM%20Engineering%3A%20Master%20AI%2C%20LLMs%20%26%20Agents-0891B2?style=for-the-badge&logo=udemy&logoColor=white)
 
 ---
 
@@ -282,9 +282,9 @@ Analyzed large-scale public health data to support state-level decisions.
 
 <div align="center">
 
-<a href="https://leetcode.com/u/yeshwanthdandu18/"><img src="https://img.shields.io/badge/LeetCode-180%2B%20Solved-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="https://leetcode.com/u/yeshwanthdandu18/"><img src="https://img.shields.io/badge/LeetCode-180%2B%20Solved-1E40AF?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 &nbsp;
-<a href="https://www.geeksforgeeks.org/user/yeshwanthdandu2003/"><img src="https://img.shields.io/badge/GeeksforGeeks-20%2B%20Solved-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+<a href="https://www.geeksforgeeks.org/user/yeshwanthdandu2003/"><img src="https://img.shields.io/badge/GeeksforGeeks-20%2B%20Solved-0891B2?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 
 </div>
 
@@ -295,12 +295,12 @@ Analyzed large-scale public health data to support state-level decisions.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YeshwanthDandu180903&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=A855F7&text_color=c9d1d9&bg_color=0D1117" alt="stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=YeshwanthDandu180903&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=A855F7&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YeshwanthDandu180903&show_icons=true&hide_border=true&title_color=06B6D4&icon_color=22D3EE&text_color=c9d1d9&bg_color=0D1117" alt="stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=YeshwanthDandu180903&hide_border=true&background=0D1117&stroke=06B6D4&ring=06B6D4&fire=22D3EE&currStreakLabel=06B6D4&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeshwanthDandu180903&layout=compact&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0D1117&langs_count=8" alt="top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeshwanthDandu180903&layout=compact&hide_border=true&title_color=06B6D4&text_color=c9d1d9&bg_color=0D1117&langs_count=8" alt="top languages" />
 
 </div>
 
@@ -311,7 +311,7 @@ Analyzed large-scale public health data to support state-level decisions.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YeshwanthDandu180903&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YeshwanthDandu180903&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -322,7 +322,7 @@ Analyzed large-scale public health data to support state-level decisions.
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YeshwanthDandu180903&bg_color=0D1117&color=8B5CF6&line=A855F7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YeshwanthDandu180903&bg_color=0D1117&color=06B6D4&line=22D3EE&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -367,10 +367,10 @@ Yeshwanth:
 
 <div align="center">
 
-<a href="mailto:yeshwanthdandu2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://linkedin.com/in/yeshwanthdandu"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/YeshwanthDandu180903"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://dandu-yeshwanth1809-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:yeshwanthdandu2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-1E40AF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://linkedin.com/in/yeshwanthdandu"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/YeshwanthDandu180903"><img src="https://img.shields.io/badge/GitHub-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://dandu-yeshwanth1809-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
@@ -381,6 +381,6 @@ Yeshwanth:
 
 *"Engineering intelligent systems that turn data into real-world impact."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:7C3AED,100:4F46E5&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:1E40AF&height=120&section=footer" alt="footer" />
 
 </div>
