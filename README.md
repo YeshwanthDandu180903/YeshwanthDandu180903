@@ -50,10 +50,7 @@ Product-minded **AI Engineer** and **Full Stack Developer** building end-to-end,
 </div>
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YeshwanthDandu180903&show_icons=true&count_private=true&hide_border=true&rank_icon=percentile&title_color=22D3EE&icon_color=06B6D4&text_color=c9d1d9&bg_color=0D1117" alt="Yeshwanth's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeshwanthDandu180903&layout=compact&hide_border=true&langs_count=8&title_color=22D3EE&text_color=c9d1d9&bg_color=0D1117" alt="Most Used Languages" />
-
+  <img src="https://raw.githubusercontent.com/YeshwanthDandu180903/YeshwanthDandu180903/567658ee24219b8e56b13b17f76e985d770907d4/stats-card.svg" alt="GitHub Stats — Total Stars 2, Commits 215, PRs 24, Issues 78, Contributed to 18; Most used languages: Python, Dart, HTML, JavaScript, CSS" width="100%" />
 </div>
 
 ---
