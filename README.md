@@ -37,7 +37,7 @@
 
 - 🧠 **AI/ML:** RAG &amp; LLM products · deep learning up to **~98%** accuracy · MLOps deployment
 - ⚙️ **Full Stack:** **FastAPI** backends · **Next.js / React / TypeScript** · **Flutter** mobile
-- ☁️ **Shipped at scale:** multi-tenant SaaS on **AWS + Docker** · **21M+** records analyzed · measurable impact (**35–50%** gains)
+- ☁️ **Shipped at scale:** multi-tenant SaaS on **AWS + Docker** · 
 
 **Open To:** AI/ML Engineer · Full Stack · Data Science roles &amp; collaborations.
 
