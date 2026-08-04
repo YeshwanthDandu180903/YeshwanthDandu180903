@@ -33,15 +33,13 @@
 <!-- ====================== ABOUT ====================== -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
 
-Product-minded **AI Engineer** and **Full Stack Developer** building end-to-end, production-grade systems where machine learning meets real users.
+**AI/ML Engineer & Full Stack Developer** — I build and ship end-to-end systems where machine learning meets real users.
 
-- 🧠 **AI / ML:** RAG systems, LLM applications, deep learning (CNNs, transfer learning), and classical ML — from experimentation to deployment.
-- ⚙️ **Full Stack:** Designing scalable backends with **FastAPI** and modern frontends with **Next.js / React / TypeScript**.
-- ☁️ **Deployment:** Shipping multi-tenant SaaS on **AWS**, **Docker**, and **Vercel** with vector databases and secure API access.
-- 📊 **Data:** Turning 21M+ record datasets into decisions through ETL pipelines, Power BI, and rigorous analysis.
-- 🚀 **Mindset:** Engineering that is measurable — I optimize for accuracy, scale, latency, and business impact.
+- 🧠 **AI/ML:** RAG &amp; LLM products · deep learning up to **~98%** accuracy · MLOps deployment
+- ⚙️ **Full Stack:** **FastAPI** backends · **Next.js / React / TypeScript** · **Flutter** mobile
+- ☁️ **Shipped at scale:** multi-tenant SaaS on **AWS + Docker** · **21M+** records analyzed · measurable impact (**35–50%** gains)
 
-**Open To:** AI Engineer · ML Engineer · Full Stack · Data Science roles & collaborations.
+**Open To:** AI/ML Engineer · Full Stack · Data Science roles &amp; collaborations.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/YeshwanthDandu180903/YeshwanthDandu180903/567658ee24219b8e56b13b17f76e985d770907d4/stats-card.svg" alt="GitHub Stats — Total Stars 2, Commits 215, PRs 24, Issues 78, Contributed to 18; Most used languages: Python, Dart, HTML, JavaScript, CSS" width="100%" />
