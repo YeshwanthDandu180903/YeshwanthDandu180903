@@ -56,12 +56,14 @@ Product-minded **AI Engineer** and **Full Stack Developer** building end-to-end,
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Frontend**
+**Frontend &amp; Mobile**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -96,7 +98,7 @@ Product-minded **AI Engineer** and **Full Stack Developer** building end-to-end,
 <br/>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,sklearn,nextjs,react,ts,tailwind,postgres,redis,docker,aws,vercel,git,github&theme=dark" alt="skill icons" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,sklearn,nextjs,react,flutter,dart,ts,tailwind,postgres,redis,docker,aws,vercel,git,github&theme=dark" alt="skill icons" />
 </div>
 
 ---
@@ -233,8 +235,9 @@ Building a production nutrition &amp; fitness clinic platform end to end.
 - Increased nutrition program adoption **35%** via food catalog management, meal templates, and adherence tracking workflows.
 - Reduced member onboarding time **50%** with a centralized 7-step onboarding system (health assessments, consent, medical reports, expert booking).
 - Improved scheduling &amp; membership administration efficiency **45%** through plan management and Cal-ID integrated appointment scheduling.
+- Built member-facing **Flutter** mobile flows for the Fitflix app — group-class browsing, bookings &amp; cancellations, credits, nutritionist consultations, chat &amp; notifications, attendance, and booking history — with REST API integration.
 
-**Skills:** `Next.js 15` `React 19` `TypeScript` `Tailwind CSS` `TanStack Query` `Zustand` `Zod` `RBAC` `REST APIs` `Vercel`
+**Skills:** `Next.js 15` `React 19` `TypeScript` `Flutter` `Dart` `Tailwind CSS` `TanStack Query` `Zustand` `Zod` `RBAC` `REST APIs` `Vercel`
 
 <br/>
 
